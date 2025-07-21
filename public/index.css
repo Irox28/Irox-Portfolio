@@ -3,3 +3,10 @@
 @plugin "daisyui" {
   themes: light;
 }
+
+.organic-shape {
+  background-color: #ede8dc;
+  width: 300px;
+  height: 300px;
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+}
